@@ -97,7 +97,7 @@ after created successful crawler click on Run Crawler to fetch schema of file. o
 
 ![schema-of-csv-file](https://github.com/gaju45/Data-Engineer-ETL-Project-Using-Spark-with-AWS-Glue/assets/97950473/b7e18eb9-504b-47bc-a4b2-2be24099e663)
 
-Step 4: we create ETL Job in AWS Glue
+### Step 4: we create ETL Job in AWS Glue
 
 - Go to AWS Glue  -->  Spark script editor -->  click on Create 
 Job name: 'myGlueETLjob'
